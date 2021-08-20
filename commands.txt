@@ -1,0 +1,7 @@
+Backup Restore......
+    call pbutils/bamenu----options for backup and restore
+wrkf smssavflib/BATQO*  ----to view all files in the base
+dspsavf smssavflib/BATQO817A   -----to view size of the file
+dspdtaara prdate   -----to view the daily processing date
+
+ACCMJQSB        ------Manually releasng the job
